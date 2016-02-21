@@ -3,7 +3,7 @@
 A simple library for logging. This library helps remove the boilerplate code required to connect to the remote logging infrustructure by suppling a factory for creating Monolog instances based on a global configuration.
 
 ## Installation
-Install the latest version with: `php composer.phar require nona/log`
+Install the latest version with: `php composer.phar require nona-creative/log`
 
 ## Basic usage
 

@@ -1,5 +1,6 @@
 {
-    "name": "nona/log",
+    "name": "nona-creative/log",
+    "description": "Monolog factory for PHP projects used at Nona",
     "version": "0.1",
     "authors": [
         {
