@@ -34,7 +34,7 @@ Currently the `LogConfig` object is really basic and only requires 3 parameters.
 
 `LogConfig::__construct($applicationName, $host = null, $systemName = null)`
 
-When `$host` is blank, then logs will be output to stdout, which is great for development use. To log to a remote Logstash instance, supply '$host' with a url, eg: `udp://localhost:5000`.
+When `$host` is blank, then logs will be output to stdout, which is great for development use. To log to a remote Logstash instance, supply `$host` with a url, eg: `udp://localhost:5000`.
 
 If `$systemName` is left blank, then Monolog will do a lookup to get the local system name.
 
