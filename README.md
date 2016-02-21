@@ -7,7 +7,7 @@ Install the latest version with: `php composer.phar require nona-creative/log`
 
 ## Basic usage
 
-```
+```php
 <?php
 use Nona\Log\Logger;
 
@@ -18,7 +18,7 @@ $log->info('Hello world log message');
 
 ## Advanced usage
 
-```
+```php
 <?php
 use Nona\Log\LogConfig;
 use Nona\Log\Logger;
