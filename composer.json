@@ -1,0 +1,16 @@
+{
+    "name": "nona/log",
+    "version": "0.1",
+    "authors": [
+        {
+            "name": "Steven Inskip",
+            "email": "inskips@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Nona\\": "src/Nona"}
+    },
+    "require": {
+        "monolog/monolog": "^1.17"
+    }
+}
